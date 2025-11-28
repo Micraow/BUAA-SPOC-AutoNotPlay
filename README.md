@@ -1,0 +1,2 @@
+# BUAA-SPOC-AutoNotPlay
+北航SPOC平台刷课脚本，AutoNotPlay有别于AutoPlay版本，适用于服务器网络不佳加载缓慢直接发包改进度。视频play都不play
